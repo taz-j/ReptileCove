@@ -4,7 +4,7 @@ T3A2-A Full Stack Application (Part A) | By Tanya Gibbs & Stephanie Duffieux | J
 * [Reptile Cove]() - Live Website
 * [GitHub Repository](https://github.com/HeyitsmeTazG/ReptileCove)
 
-![Reptile Cove Splash](./public/ReptileCove-Logo_Background2.jpg)
+![Reptile Cove Splash](./public/RC-Splash.png)
 
 ## R1 Description of the Website
 
@@ -12,14 +12,14 @@ T3A2-A Full Stack Application (Part A) | By Tanya Gibbs & Stephanie Duffieux | J
 
 #### Functionality/Features
 
-* "Home" page
-* "Meet the Team" page - Meet the team
-* "Adopt a Reptile" page 
-* "Events" page
-* "Blog" page
-* "Snake Catchers" page
-* "Rescue Centres" page
-* "Make a Donation" page
+* "Home" page (Includes purpose of the website)
+* "Meet the Team" page (Introduces the team)
+* "Adopt a Reptile" page (User Sign in/ Sign up)  
+* "Blog" page (Educational posts)
+* "Snake Catchers" page (Search by postcode)
+* "Rescue Centres" page (Includes "Make a Donation" feature)
+* Footer (Donate button directs user to the "Rescue Centres" page)
+* "Events" page (optional page)
 
 
 #### Target Audience
