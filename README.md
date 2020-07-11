@@ -49,7 +49,7 @@ T3A2-A Full Stack Application (Part A) | By Tanya Gibbs & Stephanie Duffieux | J
 ## Wireframes
 
 ## Style and Design
-![Colour Pallette](./public/ReptileCove-colour-pallette.jpg)
+![Colour Pallette](./public/ReptileCove-colour-palette.jpg)
 
 ## Screenshots of Trello Board
 
