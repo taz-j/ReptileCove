@@ -1,15 +1,16 @@
 import React, { Component } from "react";
+import { BrowserRouter, Route, Link} from "react-router-dom"
  
 class NavBar extends Component {
   render() {
     return (
-      <React.Fragment>
-        <nav className="navbar navbar-dark bg-dark mb-3">
-          <a className="navbar-brand" href="#">
-            <h1>Navbar <span className="badge badge-secondary">{this.props.totalItems}</span></h1>
-          </a>
-        </nav>
-      </React.Fragment>
+        <BrowserRouter>
+        <div>
+            <Link to="/home">Home</Link>
+            <Link to="/">Learn</Link>
+            {/* <Route exact path="/home" component={Home} /> */}
+        </div>
+        </BrowserRouter>
     );
   }
 }
