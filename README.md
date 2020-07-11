@@ -19,8 +19,6 @@ T3A2-A Full Stack Application (Part A) | By Tanya Gibbs & Stephanie Duffieux | J
 * "Snake Catchers" page (Search by postcode)
 * "Rescue Centres" page (Includes "Make a Donation" feature)
 * Footer (Donate button directs user to the "Rescue Centres" page)
-* "Events" page (optional page)
-
 
 #### Target Audience
 
@@ -53,3 +51,5 @@ T3A2-A Full Stack Application (Part A) | By Tanya Gibbs & Stephanie Duffieux | J
 ## Screenshots of Trello Board
 
 [Trello Board](https://trello.com/b/cBMk0jEf/reptile-cove)
+
+![Trello Board - Initial Stage](./public/RC-Trello-11072020.png)
