@@ -1,8 +1,10 @@
 # Reptile Cove
 T3A2-A Full Stack Application (Part A) | By Tanya Gibbs & Stephanie Duffieux | July 2020
 
-* ![Reptile Cove]() - Live Website
-* ![GitHub Repository](https://github.com/HeyitsmeTazG/ReptileCove)
+* [Reptile Cove]() - Live Website
+* [GitHub Repository](https://github.com/HeyitsmeTazG/ReptileCove)
+
+![Reptile Cove Splash](./public/ReptileCove-Logo_Background2.jpg)
 
 ## R1 Description of the Website
 
@@ -50,4 +52,4 @@ T3A2-A Full Stack Application (Part A) | By Tanya Gibbs & Stephanie Duffieux | J
 
 ## Screenshots of Trello Board
 
-![Trello Board](https://trello.com/b/cBMk0jEf/reptile-cove)
+[Trello Board](https://trello.com/b/cBMk0jEf/reptile-cove)
