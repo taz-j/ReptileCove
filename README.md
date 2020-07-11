@@ -46,6 +46,8 @@ T3A2-A Full Stack Application (Part A) | By Tanya Gibbs & Stephanie Duffieux | J
 
 ## User Stories 
 
+![User Stories](./public/RC-Trello-11072020.png)
+
 ## Wireframes
 
 ## Style and Design
@@ -55,4 +57,5 @@ T3A2-A Full Stack Application (Part A) | By Tanya Gibbs & Stephanie Duffieux | J
 
 [Trello Board](https://trello.com/b/cBMk0jEf/reptile-cove)
 
+#### Initial Stage - 11/07/2020
 ![Trello Board - Initial Stage](./public/RC-Trello-11072020.png)
