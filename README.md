@@ -52,7 +52,7 @@ Reptile Cove seeks to attract an audience of primary to high school students and
 
 * Young to middle age adults 
 
-Reptile Cove seeks to attract an audience of young to middle age adults who are passionate about reptiles  and want to contribute to protecting them through donations and adoptions. Reptile Cove also aims to educate its adult demographic on the importance and crucial role they can play in saving Australia's navtive reptile species.  
+Reptile Cove seeks to attract an audience of young to middle age adults who are passionate about reptiles  and want to contribute to protecting them through donations and adoptions. Reptile Cove also aims to educate its adult demographic on the importance and crucial role they can play in saving Australia's native reptile species.  
 
 ### Tech Stack
 
