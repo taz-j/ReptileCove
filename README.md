@@ -10,7 +10,7 @@ T3A2-A Full Stack Application (Part A) | By Tanya Gibbs & Stephanie Duffieux | J
 
 ### Purpose
 
-TBC
+TBC **TAZ TO DO**
 
 ### Functionality/Features
 
@@ -84,11 +84,11 @@ Reptile Cove seeks to attract an audience of all ages to educate Australians on 
 
 ## R2 Dataflow Diagram
 
-TBC **TAZ TO DO MONDAY**
+TBC **TAZ TO DO MONDAY** -- started
 
 ## R3 Application Architecture Diagram
 
-TBC **TAZ TO DO MONDAY**
+TBC **TAZ TO DO MONDAY** -- started
 
 ## User Stories 
 
