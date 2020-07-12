@@ -48,11 +48,11 @@ Includes a "Donate" button which directs the user to the "Rescues" page and a Si
 
 * Primary school to high school students
 
-Reptile Cove seeks to attract an audience of primary to high school students and aims to educate and raise awareness through educational blog posts on the role we can play from a young age in protecting Australia's native reptile species.
+Reptile Cove seeks to attract an audience of primary to high school students and aims to educate and raise awareness through educational blog posts on the role they can play from a young age in protecting Australia's native reptile species.
 
 * Young to middle age adults 
 
-Reptile Cove seeks to attract an audience of young to middle age adults who are passionate about reptiles  and want to contribute to protecting them through donations and adoptions. Reptile Cove also aims to educate its adult demographic on the importance and crucial role they can play in saving Australia's reptile species.  
+Reptile Cove seeks to attract an audience of young to middle age adults who are passionate about reptiles  and want to contribute to protecting them through donations and adoptions. Reptile Cove also aims to educate its adult demographic on the importance and crucial role they can play in saving Australia's navtive reptile species.  
 
 ### Tech Stack
 
