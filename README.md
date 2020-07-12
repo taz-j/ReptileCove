@@ -87,26 +87,18 @@ TBC
 
 ## Wireframes
 
-### Desktop Drafts
+### Desktop
 
-##### Home Page
-![Desktop Home Page Wireframe Draft](./public/desktop-wireframe-draft.png)
-##### Meet Us Page
-![Desktop Meet Us Wireframe Draft](./public/desktop-wireframe-draft-team.png)
-##### Blog Page
-![Desktop Blog Page Wireframe Draft](./public/desktop-wireframe-draft-blog.png)
-##### Adopt Page
-![Desktop Adopt Page Wireframe Draft](./public/desktop-wireframe-draft-adopt.png)
-##### Rescues Page
-![Desktop Rescues Page Wireframe Draft](./public/desktop-wireframe-draft-rescues.png)
-##### Profile Page 
-![Desktop Profile Page Wireframe Draft](./public/Desktop-wireframes-draft-profile.png)
-##### Sign Up Page
-![Desktop Sign Up Page Wireframe Draft](./public/desktop-wireframe-draft-signup.png)
+![Desktop Wireframes](./public/desktop-wireframes.jpg)
 
+### Tablet
+![Tablet Wireframes](./public/tablet-wireframes-1.jpg)
 
-## Style and Design
-![Colour Pallette](./public/ReptileCove-colour-palette.jpg)
+### Mobile
+![Mobile Wireframes](./public/mobile-wireframes.jpg)
+
+## Style Guide
+![Brand Style Guide](./public/Brand-Style-Guide.jpg)
 
 ## Screenshots of Trello Board
 
@@ -114,3 +106,6 @@ TBC
 
 #### Initial Stage - 11/07/2020
 ![Trello Board - Initial Stage](./public/RC-Trello-11072020.png)
+
+#### Progress - 12/07/2020
+![Trello Board - 12/07/2020](./public/RC-Trello-12072020.png)
