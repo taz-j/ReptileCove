@@ -96,6 +96,10 @@ TBC **TAZ TO DO MONDAY** -- started
 
 ## Wireframes
 
+### Figma Link to all Wireframes
+
+[Figma Link]()
+
 ### Desktop
 
 ![Desktop Wireframes](./public/desktop-wireframes.jpg)
