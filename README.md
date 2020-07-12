@@ -97,6 +97,8 @@ TBC
 ![Desktop Blog Page Wireframe Draft](./public/desktop-wireframe-draft-blog.png)
 ##### Adopt Page
 ![Desktop Adopt Page Wireframe Draft](./public/desktop-wireframe-draft-adopt.png)
+##### Rescues page
+![Desktop Rescues Page Wireframe Draft](./public/desktop-wireframe-draft-rescues.png)
 
 
 ## Style and Design
