@@ -91,14 +91,18 @@ TBC
 
 ##### Home Page
 ![Desktop Home Page Wireframe Draft](./public/desktop-wireframe-draft.png)
-##### Meet Us
+##### Meet Us Page
 ![Desktop Meet Us Wireframe Draft](./public/desktop-wireframe-draft-team.png)
 ##### Blog Page
 ![Desktop Blog Page Wireframe Draft](./public/desktop-wireframe-draft-blog.png)
 ##### Adopt Page
 ![Desktop Adopt Page Wireframe Draft](./public/desktop-wireframe-draft-adopt.png)
-##### Rescues page
+##### Rescues Page
 ![Desktop Rescues Page Wireframe Draft](./public/desktop-wireframe-draft-rescues.png)
+##### Profile Page 
+![Desktop Profile Page Wireframe Draft](./public/Desktop-wireframes-draft-profile.png)
+##### Sign Up Page
+![Desktop Sign Up Page Wireframe Draft](./public/desktop-wireframe-draft-signup.png)
 
 
 ## Style and Design
