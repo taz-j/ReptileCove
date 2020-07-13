@@ -110,9 +110,9 @@ TBC **TAZ TO DO MONDAY** -- started
 <li>As a user I want to have access to a "Blog" page so I can learn about reptiles and how to protect them</li>
 <li>As a user I want to have access to an "Adopt" page so I can view any reptiles available for adoption</li>
 <li>As a user I want to have a form so that I can enquire about a reptile I want to adopt</li>
-<li>As a user I want to be able to sign in so I can list a reptile for adoption</li>
+<li>As a user I want to be able to sign up/in so I can list a reptile for adoption</li>
 <li>As a user I want to have access to a "Rescue Centres" page so I can search for rescue centres in my local area</li>
-<li>As a user I want to be able to sign in to make donations to a rescue centre</li>
+<li>As a user I want to be able to sign up/in to make donations to a rescue centre</li>
 <li>As a user I want to have access to a "Snake Catchers" page so I can find snake catchers in my local area</li>
 </ul>
 </details>
@@ -121,7 +121,10 @@ TBC **TAZ TO DO MONDAY** -- started
 <summary><strong>Admin</strong></summary>
 <ul>
 <li>As an admin I want to be able to sign up/in so I can create blog posts</li>
+<li>As an admin I want to be able to edit blog posts so I can update any changes I need to make (e.g spelling errors/photos)</li>
+<li>As an admin I want to be able to delete a blog post so it doesnt appear on the site</li>
 <li>As an admin I want to have full access of the site so I can remove any inapppropriate posts, and moderate user interaction</li>
+<li>As an admin I want to be able to delete adoption listings made by other users if the listing does not meet the requirements, or has been adopted out or has passed</li>
 </ul>
 </details>
 
@@ -129,7 +132,7 @@ TBC **TAZ TO DO MONDAY** -- started
 <summary><strong>Signed In User</strong></summary>
 <ul>
 <li>As a signed-in user I want to be able to list a reptile so that other users can enquire and adopt it</li>
-<li></li>
+<li>As a signed-in user I want to be able to delete one of my own adoption posts if the reptile I have listed has been adopted or has passed</li>
 <li>As a signed-in user I want to be able to make a donation to one or more of the rescue centres</li>
 <li>As a signed-in user I want to have a profile page so i can edit my profile and security deatils</li>
 <li>As a signed-in user I want a sign out button so I can end my session on the website</li>
