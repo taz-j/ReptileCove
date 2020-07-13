@@ -98,6 +98,33 @@ TBC **TAZ TO DO MONDAY** -- started
 
 ## User Stories 
 
+<details>
+<summary><strong>Admin</strong></summary>
+<ul>
+<li></li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Standard User</strong></summary>
+<ul>
+<li>As a User I want to view a "Home" Page so I can have an understanding of the purpose of the website</li>
+<li>As a user I want to have access to a "Meet the Team" page so I can view who created the website</li>
+<li>As a user I want to have access to a "Blog" page so I can learn about reptiles and how to protect them</li>
+<li>As a user I want to have access to an "Adopt" page so I can view any reptiles available for adoption</li>
+<li>As a user I want to have a form so that I can enquire about a reptile I want to adopt</li>
+<li>As a user I want to be able to list a reptile so that other users can enquire and adopt it</li>
+<li></li>
+</ul>
+</details>
+
+<details>
+<summary><strong>Signed In User</strong></summary>
+<ul>
+<li></li>
+</ul>
+</details>
+
 ![User Stories](./public/RC-Trello-11072020.png)
 
 ## Wireframes
