@@ -108,13 +108,20 @@ TBC **TAZ TO DO MONDAY** -- started
 <details>
 <summary><strong>Standard User</strong></summary>
 <ul>
+<li>A user I want to have access to a navigation bar so I can navigate through the website</li>
 <li>As a User I want to view a "Home" Page so I can have an understanding of the purpose of the website</li>
 <li>As a user I want to have access to a "Meet the Team" page so I can view who created the website</li>
+<li>As a user I want to have a contact form so that I can email the website creators with any feedback or enquiries about the site</li>
 <li>As a user I want to have access to a "Blog" page so I can learn about reptiles and how to protect them</li>
 <li>As a user I want to have access to an "Adopt" page so I can view any reptiles available for adoption</li>
 <li>As a user I want to have a form so that I can enquire about a reptile I want to adopt</li>
+<li>As a user I want to be able to sign in so I can list a reptile for adoption</li>
 <li>As a user I want to be able to list a reptile so that other users can enquire and adopt it</li>
-<li></li>
+<li>As a user I want to have access to a "Rescue Centres" page so I can search for rescue centres in my local area</li>
+<li>As a user I want to be able to sign in to make donations to a rescue centre</li>
+<li>As a user I want to have access to a "Snake Catchers" page so I can find snake catchers in my local area</li>
+<li>As a user I want to have a profile page so i can edit my profile and security deatils</li>
+<li>As a user I want a sign out button so I can end my session on the website</li>
 </ul>
 </details>
 
