@@ -10,7 +10,13 @@ T3A2-A Full Stack Application (Part A) | By Tanya Gibbs & Stephanie Duffieux | J
 
 ### Purpose
 
-TBC **TAZ TO DO**
+The purpose for our site is to create a platform that educates Australians on native reptile species, why they are vital to our ecosystems, and how we can better protect them.
+
+Conservation is something all Australians are responsible for, however, there is a lack of easily accessible information available. Most information regarding Australia’s native reptile species are scientific journals, and other academic works. We want to change that.
+
+The native population for snakes and other reptiles has been on a downhill slope for decades now. People either take the animals out of the wild, or they kill them out of fear. These decisions can have lasting impacts on natural ecosystems, and as the reptile population decimates, the ‘prey’ population increases. This imbalance has a domino effect on pest control, global warming, and several other issues (such as water availability and crop farming).
+Our plan for this interactive site includes many features we feel are important for educating Australians, and how we can all do our part to protect our native reptile species.
+
 
 ### Functionality/Features
 
