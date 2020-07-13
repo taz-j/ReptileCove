@@ -6,6 +6,7 @@ T3A2-A Full Stack Application (Part A) | By Tanya Gibbs & Stephanie Duffieux | J
 
 ![Reptile Cove Splash](./public/RC-Splash.png)
 
+**Right click the image below and open in a new tab to view our trailer video**
 [![Reptile Cove Trailer](http://img.youtube.com/vi/vd-9zEfhuto/0.jpg)](http://www.youtube.com/watch?v=vd-9zEfhuto)
 ## R1 Description of the Website
 
