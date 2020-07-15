@@ -190,7 +190,7 @@ Reptile Cove seeks to attract an audience of all ages to educate Australians on 
 
 **Click the image below to view our application prototype**
 
-[![Reptile Cove Prototype](./public/app-prototype.png)](https://www.youtube.com/watch?v=JQMZ1uP83Mg)
+[![Reptile Cove Prototype](./public/app-prototype.png)](https://www.youtube.com/watch?v=9SI4JcEh-UI&t=10s)
 
 ![Reptile Cove Prototype 1](./public/prototype2.png)
 ![Reptile Cove Prototype 2](./public/prototype3.png)
