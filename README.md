@@ -23,6 +23,8 @@ Our plan for this interactive site includes many features we feel are important 
 
 ### Functionality/Features
 
+<details><summary><strong>Functionality</strong></summary>
+
 ##### "Home" Page
 Welcomes the user to the website, includes a short video and purpose of the website. 
 
@@ -54,6 +56,11 @@ This page holds 2 forms, and renders either the Sign Up, or Sign In page dependi
 ##### Footer
 
 Includes a "Donate" button which directs the user to the "Rescues" page and a Sign In/Sign Out button.
+</details>
+
+<details><summary><strong>Features</strong></summary>
+
+</details>
 
 ### Target Audience
 
