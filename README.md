@@ -149,12 +149,6 @@ TBC **TAZ TO DO MONDAY** -- started
 
 [Figma Link]()
 
-## Prototype
-
-**Click the image below to view our application prototype**
-
-[![Reptile Cove Prototype](./public/app-prototype.png)](https://www.youtube.com/watch?v=JQMZ1uP83Mg)
-
 
 ### Desktop
 
@@ -168,6 +162,12 @@ TBC **TAZ TO DO MONDAY** -- started
 
 ## Style Guide
 ![Brand Style Guide](./public/Brand-Style-Guide.jpg)
+
+## Prototype
+
+**Click the image below to view our application prototype**
+
+[![Reptile Cove Prototype](./public/app-prototype.png)](https://www.youtube.com/watch?v=JQMZ1uP83Mg)
 
 ## Screenshots of Trello Board
 
