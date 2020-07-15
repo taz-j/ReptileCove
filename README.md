@@ -93,7 +93,9 @@ Reptile Cove seeks to attract an audience of all ages to educate Australians on 
 
 ## R2 Dataflow Diagram
 
-TBC **TAZ TO DO MONDAY** -- started
+![Reptile Cove Data Flow Diagram 1](./public/rc-data-flow-1.png)
+![Reptile Cove Data Flow Diagram 2](./public/rc-data-flow-2.png)
+![Reptile Cove Data Flow Diagram 3](./public/rc-data-flow3.png)
 
 ## R3 Application Architecture Diagram
 
