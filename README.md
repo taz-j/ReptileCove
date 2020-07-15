@@ -97,7 +97,7 @@ TBC **TAZ TO DO MONDAY** -- started
 
 ## R3 Application Architecture Diagram
 
-TBC **TAZ TO DO MONDAY** -- started
+![Reptile Cove Architecture Diagram](./public/reptileCove_architecture-diagram.png)
 
 ## User Stories 
 
@@ -139,6 +139,7 @@ TBC **TAZ TO DO MONDAY** -- started
 <li>As a signed-in user I want a sign out button so I can end my session on the website</li>
 </ul>
 </details>
+<br>
 
 ![User Stories](./public/RC-Trello-11072020.png)
 
@@ -147,6 +148,13 @@ TBC **TAZ TO DO MONDAY** -- started
 ### Figma Link to all Wireframes
 
 [Figma Link]()
+
+## Prototype
+
+**Click the image below to view our application prototype**
+
+[![Reptile Cove Prototype](./public/app-prototype.png)](https://www.youtube.com/watch?v=JQMZ1uP83Mg)
+
 
 ### Desktop
 
