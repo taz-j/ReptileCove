@@ -151,9 +151,7 @@ Reptile Cove seeks to attract an audience of all ages to educate Australians on 
 
 ## Wireframes
 
-### Figma Link to all Wireframes
-
-[Wireframes Link](https://www.figma.com/file/fA9lz56lEUxDXQg75kgVoH/Reptile-Cove-Wireframes?node-id=0%3A1)
+[Link to all Wireframes](https://www.figma.com/file/fA9lz56lEUxDXQg75kgVoH/Reptile-Cove-Wireframes?node-id=0%3A1)
 
 
 ### Desktop
