@@ -99,6 +99,10 @@ TBC **TAZ TO DO MONDAY** -- started
 
 ![Reptile Cove Architecture Diagram](./public/reptileCove_architecture-diagram.png)
 
+## Sitemap
+
+![Reptile Cove Sitemap](./public/reptileCove-sitemap.png)
+
 ## User Stories 
 
 <details>
