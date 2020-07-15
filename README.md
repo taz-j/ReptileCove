@@ -60,6 +60,18 @@ Includes a "Donate" button which directs the user to the "Rescues" page and a Si
 
 <details><summary><strong>Features</strong></summary>
 
+##### Donation Button
+
+##### Adoption enquiry
+
+##### Email site admins
+
+##### Google maps
+
+##### Third Party Payment System
+
+##### Sign Up/In/Out
+
 </details>
 
 ### Target Audience
