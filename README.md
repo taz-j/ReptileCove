@@ -87,37 +87,64 @@ Site creators have admin access, and have full control of the site, such as dele
 
 ##### Demographic
 
-* Primary school to high school students
+<details><summary><strong>Primary school to high school students</strong></summary>
 
 Reptile Cove seeks to attract an audience of primary to high school students and aims to educate and raise awareness through educational blog posts on the role they can play from a young age in protecting Australia's native reptile species.
+</details>
 
-* Young to middle age adults 
+<details><summary><strong>Young to middle age adults</strong></summary>
 
 Reptile Cove seeks to attract an audience of young to middle age adults who are passionate about reptiles  and want to contribute to protecting them through donations and adoptions. Reptile Cove also aims to educate its adult demographic on the importance and crucial role they can play in saving Australia's native reptile species.  
+</details>
 
-* Elder generations
+<details><summary><strong>Elder generations</strong></summary>
 
 Reptile Cove seeks to attract an audience of all ages to educate Australians on how to respect and care for Australia's native reptile species. The Snake Catchers page is aimed to help Australians have unwanted reptile guests safely relocated. The blog posts are aimed to help educate all Australians, regardless of age, on why our native reptile species are cruicial to natural ecosystems and why they should be protected.
+</details>
 
 ### Tech Stack
 
+<details><summary><strong>Framework/structre</strong></summary>
+
 * MERN Stack (MongoDB, Express, React, Node)
-* GitHub
-* Visual Studio Code
 * HTML5
+* JavaScript
+</details>
+
+<details><summary><strong>Styling</strong></summary>
 * CSS3
-* Bootstrap (frontend styling)
+* Bootstrap
+</details>
+
+<details><summary><strong>Deployment and Storage</strong></summary>
+
 * Heroku (deployment platform)
 * Cloudinary (Cloud storage)
-* Stripe (third party payment system)
-* Google Maps (third party map system)
+</details>
+
+<details><summary><strong>Third Party Tools</strong></summary>
+
+* Stripe (Payment system)
+* Google Maps (Map system)
+</details>
+<details><summary><strong>Development Tools</strong></summary>
+
+* GitHub
+* Visual Studio Code
+* Discord (Collaboration & screen share)
+</details>
+
+<details><summary><strong>Planning and Design</strong></summary>
+
 * Adobe Illustrator (Logo vector art)
-* Adobe Photoshop (image resizing)
-* Figma (draft wireframes)
-* Adobe XD (wireframe mockups)
-* Unsplash (free stock images)
-* Trello.com (project management, user stories)
+* Adobe Photoshop (Image resizing)
+* Figma (Wireframes)
+* Adobe XD (Prototype)
+* LucidChart (Diagrams)
+* Unsplash (Free stock images)
+* Trello (Project management, user stories)
 * Keynote (Slide deck presentation)
+</details>
 
 ## R2 Dataflow Diagram
 
