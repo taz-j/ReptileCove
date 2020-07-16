@@ -4,7 +4,7 @@ T3A2-A Full Stack Application (Part A) | By Taz Gibbs & Stephanie Duffieux | Jul
 * [Reptile Cove]() - Live Website
 * [GitHub Repository](https://github.com/HeyitsmeTazG/ReptileCove)
 
-![Reptile Cove Splash](./public/RC-Splash.png)
+![Reptile Cove Splash](./docs/RC-Splash.png)
 
 **Right click the image below and open in a new tab to view our trailer video**
 [![Reptile Cove Trailer](http://img.youtube.com/vi/vd-9zEfhuto/0.jpg)](http://www.youtube.com/watch?v=vd-9zEfhuto)
@@ -148,17 +148,17 @@ Reptile Cove seeks to attract an audience of all ages to educate Australians on 
 
 ## R2 Dataflow Diagram
 
-![Reptile Cove Data Flow Diagram 1](./public/rc-data-flow-1.png)
-![Reptile Cove Data Flow Diagram 2](./public/rc-data-flow-2.png)
-![Reptile Cove Data Flow Diagram 3](./public/rc-data-flow3.png)
+![Reptile Cove Data Flow Diagram 1](./docs/rc-data-flow-1.png)
+![Reptile Cove Data Flow Diagram 2](./docs/rc-data-flow-2.png)
+![Reptile Cove Data Flow Diagram 3](./docs/rc-data-flow3.png)
 
 ## R3 Application Architecture Diagram
 
-![Reptile Cove Architecture Diagram](./public/reptileCove_architecture-diagram.png)
+![Reptile Cove Architecture Diagram](./docs/reptileCove_architecture-diagram.png)
 
 ## Sitemap
 
-![Reptile Cove Sitemap](./public/reptileCove-sitemap.png)
+![Reptile Cove Sitemap](./docs/reptileCove-sitemap.png)
 
 ## R4 User Stories 
 
@@ -202,7 +202,7 @@ Reptile Cove seeks to attract an audience of all ages to educate Australians on 
 </details>
 <br>
 
-![User Stories](./public/RC-Trello-11072020.png)
+![User Stories](./docs/RC-Trello-11072020.png)
 
 ## R5 Wireframes
 
@@ -211,28 +211,28 @@ Reptile Cove seeks to attract an audience of all ages to educate Australians on 
 
 ### Desktop
 
-![Desktop Wireframes](./public/desktop-wireframes.jpg)
+![Desktop Wireframes](./docs/desktop-wireframes.jpg)
 
 ### Tablet
-![Tablet Wireframes](./public/tablet-wireframes-1.jpg)
+![Tablet Wireframes](./docs/tablet-wireframes-1.jpg)
 
 ### Mobile
-![Mobile Wireframes](./public/mobile-wireframes.jpg)
+![Mobile Wireframes](./docs/mobile-wireframes.jpg)
 
 ## Style Guide
-![Brand Style Guide](./public/Brand-Style-Guide.jpg)
+![Brand Style Guide](./docs/Brand-Style-Guide.jpg)
 
 ## Prototype
 
 **Click the image below to view our application prototype**
 
-[![Reptile Cove Prototype](./public/app-prototype.png)](https://www.youtube.com/watch?v=9SI4JcEh-UI)
+[![Reptile Cove Prototype](./docs/app-prototype.png)](https://www.youtube.com/watch?v=9SI4JcEh-UI)
 
-![Reptile Cove Prototype 1](./public/prototype2.png)
-![Reptile Cove Prototype 2](./public/prototype3.png)
-![Reptile Cove Prototype 3](./public/prototype4.png)
-![Reptile Cove Prototype 4](./public/prototype5.png)
-![Reptile Cove Prototype 5](./public/prototype6.png)
+![Reptile Cove Prototype 1](./docs/prototype2.png)
+![Reptile Cove Prototype 2](./docs/prototype3.png)
+![Reptile Cove Prototype 3](./docs/prototype4.png)
+![Reptile Cove Prototype 4](./docs/prototype5.png)
+![Reptile Cove Prototype 5](./docs/prototype6.png)
 
 
 ## R6 Screenshots of Trello Board
@@ -240,10 +240,10 @@ Reptile Cove seeks to attract an audience of all ages to educate Australians on 
 [View Live Trello Board](https://trello.com/b/cBMk0jEf/reptile-cove)
 
 #### Initial Stage - 11/07/2020
-![Trello Board - Initial Stage](./public/RC-Trello-11072020.png)
+![Trello Board - Initial Stage](./docs/RC-Trello-11072020.png)
 
 #### Progress - 12/07/2020
-![Trello Board - 12/07/2020](./public/RC-Trello-12072020.png)
+![Trello Board - 12/07/2020](./docs/RC-Trello-12072020.png)
 
 #### Progress - 16/07/2020
-![Trello Board - 16/07/2020](./public/RC-Trello-16072020.png)
+![Trello Board - 16/07/2020](./docs/RC-Trello-16072020.png)
