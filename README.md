@@ -32,10 +32,10 @@ Welcomes the user to the website, includes a short video and purpose of the webs
 Introduces the user to the team behind Reptile Cove. The user can fill out a contact form if they wish to get in touch with the team.  
 
 ##### "Adopt a Reptile" Page
-Users that are not signed in can view a list of reptiles available to adopt. A user must be signed in to enquire and adopt a reptile. Users can also add a reptile for adoption, with relevant information, including age, medical history, temperament, and husbandry requirements.  
+Users that are not signed in can view a list of reptiles available to adopt. A user must be signed in to enquire about a reptile. Users can also add a reptile for adoption, with relevant information, including age, medical history, temperament, and husbandry requirements.  
 
 ##### "Blog" Page
-Users can view educational posts written by Reptile Cove's admin team. An admin user can log in and update blog posts or add new blog posts.
+Users can view educational posts written by Reptile Cove's admin team. An admin user can log in and update blog posts, add new blog posts, or delete blog posts.
 
 ##### "Snake Catchers" Page
 
