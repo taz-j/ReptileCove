@@ -43,7 +43,7 @@ Users can find snake catchers in their local region by entering their postcode w
 
 ##### "Rescues" Page
 
-Shows a list of rescue centres. Each rescue centre has a "Make a Donation" feature button allowing a user to make donations. This section is also linked to google maps, so a user can find other rescue centres near them.
+Shows a list of rescue centres. Each rescue centre has a "Make a Donation" feature button allowing a user to make donations to a Rescue. This section is also linked to google maps, so a user can find other rescue centres near them.
 
 ##### Profile Page
 
@@ -61,17 +61,25 @@ Includes a "Donate" button which directs the user to the "Rescues" page and a Si
 <details><summary><strong>Features</strong></summary>
 
 ##### Donation Button
-
-##### Adoption enquiry
-
-##### Email site admins
-
-##### Google maps
+On Rescues page so users can donate to a list of our favourite reptile rescues.
 
 ##### Third Party Payment System
+The payment system that facilitates the donations
+
+##### Adoption enquiry
+A form that can be sent to the email of the user who posted the adoption listing. A user must be signed in to send this
+
+##### Email site admins
+A form to email the site admins regarding any queries about the website.
+
+##### Google maps
+Available on the Rescues and Snake Catchers page, so users can find Rescues and Snake Catchers in their local area.
 
 ##### Sign Up/In/Out
+Authentication and Authorisation, allows a user to create, edit, and delete their profile.
 
+##### Admin Access
+Site creators have admin access, and have full control of the site, such as deleting users profiles and posts if necessary. Admins are able to create/edit/delete blog posts on the blog page.
 
 </details>
 
