@@ -72,6 +72,7 @@ Includes a "Donate" button which directs the user to the "Rescues" page and a Si
 
 ##### Sign Up/In/Out
 
+
 </details>
 
 ### Target Audience
