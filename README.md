@@ -209,3 +209,6 @@ Reptile Cove seeks to attract an audience of all ages to educate Australians on 
 
 #### Progress - 12/07/2020
 ![Trello Board - 12/07/2020](./public/RC-Trello-12072020.png)
+
+#### Progress - 16/07/2020
+![Trello Board - 16/07/2020](./public/RC-Trello-16072020.png)
