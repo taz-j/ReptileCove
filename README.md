@@ -160,7 +160,7 @@ Reptile Cove seeks to attract an audience of all ages to educate Australians on 
 
 ![Reptile Cove Sitemap](./public/reptileCove-sitemap.png)
 
-## User Stories 
+## R4 User Stories 
 
 <details>
 <summary><strong>Standard User</strong></summary>
@@ -204,7 +204,7 @@ Reptile Cove seeks to attract an audience of all ages to educate Australians on 
 
 ![User Stories](./public/RC-Trello-11072020.png)
 
-## Wireframes
+## R5 Wireframes
 
 [Link to all Wireframes](https://www.figma.com/file/fA9lz56lEUxDXQg75kgVoH/Reptile-Cove-Wireframes?node-id=0%3A1)
 
@@ -235,7 +235,7 @@ Reptile Cove seeks to attract an audience of all ages to educate Australians on 
 ![Reptile Cove Prototype 5](./public/prototype6.png)
 
 
-## Screenshots of Trello Board
+## R6 Screenshots of Trello Board
 
 [View Live Trello Board](https://trello.com/b/cBMk0jEf/reptile-cove)
 
