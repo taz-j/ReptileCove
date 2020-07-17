@@ -1,7 +1,7 @@
 # Reptile Cove
 T3A2-A Full Stack Application (Part A) | By Taz Gibbs & Stephanie Duffieux | July 2020
 
-* [Reptile Cove]() - Live Website
+* [Reptile Cove](http://www.reptilecove.ml/) - Live Website
 * [GitHub Repository](https://github.com/HeyitsmeTazG/ReptileCove)
 
 ![Reptile Cove Splash](./docs/RC-Splash.png)
